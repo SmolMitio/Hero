@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
 				"li",
 				"link\tTag"
 			],
@@ -43,34 +55,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "stylish.html",
-			"settings":
-			{
-				"buffer_size": 375,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "test.ccs.html",
-			"settings":
-			{
-				"buffer_size": 235,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "elements.html",
-			"settings":
-			{
-				"buffer_size": 487,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "<h1>Heading 1</h1>"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -102,15 +86,23 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/PC/Desktop/Hero"
+	],
 	"file_history":
 	[
+		"/C/Users/PC/Desktop/Hero/elements.html",
+		"/C/Users/PC/Desktop/Hero/css/test.css",
+		"/C/Users/PC/Desktop/Hero/stylish.html",
+		"/C/Users/PC/Desktop/Hero/test.ccs.html",
 		"/C/Users/PC/Desktop/Hero/test.html",
 		"/C/Users/PC/Desktop/GitHub/cartoon-hero/test.html",
 		"/C/Users/PC/Documents/GitHub/cartoon-hero/test.html"
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 31.0
 	},
 	"find_in_files":
 	{
@@ -142,95 +134,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "stylish.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 375,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								123,
-								123
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "test.ccs.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 235,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								106,
-								106
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "elements.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 487,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								107,
-								107
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<h1>Heading 1</h1>",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 330.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],
